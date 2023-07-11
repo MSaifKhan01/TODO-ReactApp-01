@@ -21,6 +21,7 @@ function App() {
         <Route path="/logout" element={<h1>Logout component</h1>} />
         <Route path="/profile" element={<h1>Profile component</h1>} />
         </Route>
+        
         <Route path="/signup" element={<SignUp/>} />
         <Route path="/login" element={<Login/>} />
       </Routes>
