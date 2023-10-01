@@ -5,6 +5,18 @@
 
 This is an E-commerce Dashboard project built using React.js. It includes several components for managing products, user profiles, and authentication. Below, you'll find an overview of the components and their functionalities.
 
+
+## Tech Stack Used
+
+
+- React.js: A front-end framework for building user interfaces.
+- React Router: Used for routing and navigation within the application.
+- CSS: Styles and responsive design for the components.
+- REST API: Enables communication with the backend server for user authentication and data management.
+- Node.js: A JavaScript runtime environment for building server-side applications.
+- Express: A web application framework for Node.js, used for building robust APIs.
+- MongoDB Atlas: A cloud-based database service for storing and managing data.
+
 ## Components
 
 ### 1. Navbar (Nav.js)
@@ -15,7 +27,7 @@ This is an E-commerce Dashboard project built using React.js. It includes severa
 
 ### 2. Sign Up (SignUp.js)
 
-- Allows users to register by providing their name, email, and password.
+- Allows users to register by providing their name, email, and password with jwt and hashing.
 - Validates user input and displays error messages.
 - Navigates to the dashboard after successful registration.
 
@@ -57,26 +69,33 @@ This is an E-commerce Dashboard project built using React.js. It includes severa
 - Displays a footer with the project name (E-commerce Dashboard).
 - Positioned at the bottom of the page.
 
-## Getting Started
+## Installation
 
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies using npm or yarn.
-3. Run the development server to start the application.
+To run this project locally, follow these steps:
 
-```bash
-npm install
-npm start
+1. Clone the repository: ```git clone https://github.com/MSaifKhan01/TODO-ReactApp-01.git```
+2. Navigate to the project directory: `cd TODO-ReactApp-01`
+  
+
+   # For Frontend
+3. Frontend: `cd front-end`   
+4. Install dependencies: `npm install`
+5. Start the development server: `npm start`
+
+    # For Backend
+6. Backend: `cd backend`
+7. Install dependencies: `npm install`
+8. Start the development server: `npm run server`
 
 
-```
-
-## Tech Stack Used
 
 
-- React.js: A front-end framework for building user interfaces.
-- React Router: Used for routing and navigation within the application.
-- CSS: Styles and responsive design for the components.
-- REST API: Enables communication with the backend server for user authentication and data management.
-- Node.js: A JavaScript runtime environment for building server-side applications.
-- Express: A web application framework for Node.js, used for building robust APIs.
-- MongoDB Atlas: A cloud-based database service for storing and managing data.
+
+## Contact
+
+Have questions or feedback? Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mohd-saif-khan-3b4979202/).
+
+
+Thank you for using our TODO web application!
+
+
