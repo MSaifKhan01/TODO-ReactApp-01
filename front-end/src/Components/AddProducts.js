@@ -20,7 +20,7 @@ const AddProduct = () => {
         console.log(name, price, category, company)
 
         const userId = JSON.parse(localStorage.getItem('user'))._id;
-        let  result = fetch("http://localhost:5000/add-product", {
+        let  result = fetch("https://todo-app-48hu.onrender.com/add-product", {
             method:'post',
             body: JSON.stringify({ name, price, category,company, userId }),
                 headers: {

@@ -15,7 +15,7 @@ const SignUp=()=>{
     })
     const collectData=async()=>{
         console.log(name,email,password);
-        let result = await fetch('http://localhost:5000/register',{
+        let result = await fetch('https://todo-app-48hu.onrender.com/register',{
             method:'post',
             body: JSON.stringify({name,email,password}),
             headers:{
