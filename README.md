@@ -70,8 +70,9 @@ npm start
 
 ```
 
-## Technologies Used
-React.js: Front-end framework for building user interfaces.
-React Router : For routing and navigation within the application.
-CSS : Styles and responsive design for the components.
-REST API : Communication with the backend server for user authentication and data management.
+## Tech Stack Used
+
+- React.js: A front-end framework for building user interfaces.
+- React Router: Used for routing and navigation within the application.
+- CSS: Styles and responsive design for the components.
+- REST API: Enables communication with the backend server for user authentication and data management.
