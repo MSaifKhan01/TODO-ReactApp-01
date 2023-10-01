@@ -72,7 +72,11 @@ npm start
 
 ## Tech Stack Used
 
+
 - React.js: A front-end framework for building user interfaces.
 - React Router: Used for routing and navigation within the application.
 - CSS: Styles and responsive design for the components.
 - REST API: Enables communication with the backend server for user authentication and data management.
+- Node.js: A JavaScript runtime environment for building server-side applications.
+- Express: A web application framework for Node.js, used for building robust APIs.
+- MongoDB Atlas: A cloud-based database service for storing and managing data.
