@@ -69,6 +69,11 @@ This is an E-commerce Dashboard project built using React.js. It includes severa
 - Displays a footer with the project name (E-commerce Dashboard).
 - Positioned at the bottom of the page.
 
+
+## API Documentation
+
+For detailed information on how to use our API, please refer to the [API documentation](API DOC/readme.md).
+
 ## Installation
 
 To run this project locally, follow these steps:
