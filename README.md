@@ -73,7 +73,7 @@ This is an E-commerce Dashboard project built using React.js. It includes severa
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/MSaifKhan01/TODO-ReactApp-01.git```
+1. Clone the repository: ```bash git clone https://github.com/MSaifKhan01/TODO-ReactApp-01.git```
 2. Navigate to the project directory: `cd TODO-ReactApp-01`
   
 
