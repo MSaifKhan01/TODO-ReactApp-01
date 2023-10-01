@@ -1,9 +1,10 @@
-# TODO-ReactApp-01
+Deployed frontend Link: https://todo5038.netlify.app/
+Deployed Backend Link: https://todo-app-48hu.onrender.com
 
 
-# E-commerce Dashboard
+# TODO APP
 
-This is an E-commerce Dashboard project built using React.js. It includes several components for managing products, user profiles, and authentication. Below, you'll find an overview of the components and their functionalities.
+This is a TODO App built using React.js. It includes several components for managing products, user profiles, and authentication. Below, you'll find an overview of the components and their functionalities.
 
 
 ## Tech Stack Used
