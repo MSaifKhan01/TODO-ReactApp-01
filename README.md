@@ -72,7 +72,7 @@ This is an E-commerce Dashboard project built using React.js. It includes severa
 
 ## API Documentation
 
-For detailed information on how to use our API, please refer to the [API documentation](API DOC/readme.md).
+For detailed information on how to use our API, please refer to the [API documentation](backend/API%20DOC/readme.md).
 
 ## Installation
 
