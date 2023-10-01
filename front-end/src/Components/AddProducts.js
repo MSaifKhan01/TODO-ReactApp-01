@@ -26,12 +26,13 @@ const AddProduct = () => {
                 headers: {
             "Content-Type": "application/json",
             authorization:`bearer ${JSON.parse(localStorage.getItem('token'))}`
+            
         }
        
     });
-    result = await result.json();
-    navigate('/profile')
-    console.log(result)
+    // result = await result.json();
+    navigate('/')
+    // console.log("hell",result)
 }
 return (
     <div className="product">
