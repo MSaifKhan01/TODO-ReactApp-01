@@ -73,21 +73,21 @@ This is an E-commerce Dashboard project built using React.js. It includes severa
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: ```bash 
-git clone https://github.com/MSaifKhan01/TODO-ReactApp-01.git
-```
+1. Clone the repository: `git clone https://github.com/MSaifKhan01/TODO-ReactApp-01.git`
 2. Navigate to the project directory: `cd TODO-ReactApp-01`
-  
 
-   # For Frontend
-3. Frontend: `cd front-end`   
-4. Install dependencies: `npm install`
+### Frontend (React.js)
+
+3. Navigate to the frontend directory: `cd front-end`
+4. Install frontend dependencies: `npm install`
 5. Start the development server: `npm start`
 
-    # For Backend
-6. Backend: `cd backend`
-7. Install dependencies: `npm install`
-8. Start the development server: `npm run server`
+### Backend (Node.js, jwt, Express, MongoDB)
+
+6. Navigate to the backend directory: `cd backend`
+7. Install backend dependencies: `npm install`
+8. Start the backend server: `npm run server`
+
 
 
 
